@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 785 650">
+  <g id="Hero_Text" data-name="Hero Text" transform="translate(1)">
+    <text id="YOU" transform="translate(311 321)" fill="#fff" font-size="297" font-family="Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-309.029" y="0">YOU</tspan></text>
+    <text id="WE" transform="translate(544 556)" fill="#fff" font-size="297" font-family="Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-239.382" y="0">WE</tspan></text>
+    <text id="DREAM" transform="translate(160 395)" fill="#fff" font-size="63" font-family="Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-116.771" y="0">DREAM</tspan></text>
+    <text id="CRAFT" transform="translate(678 634)" fill="#fff" font-size="63" font-family="Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-105.336" y="0">CRAFT</tspan></text>
+    <text id="THINK" transform="translate(148 479)" fill="#fff" font-size="63" font-family="Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-104.58" y="0">THINK</tspan></text>
+    <text id="IMAGINE" transform="translate(184 563)" fill="#fff" font-size="63" font-family="Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-141.34" y="0">IMAGINE</tspan></text>
+  </g>
+</svg>

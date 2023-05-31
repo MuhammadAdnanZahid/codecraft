@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108.851" height="122" viewBox="0 0 108.851 122">
+  <g id="Group_1583" data-name="Group 1583" transform="translate(-269 -207.723)">
+    <path id="Path_2942" data-name="Path 2942" d="M364.357,454.137V364.745H333.34v89.392" transform="translate(-50.979 -124.414)" fill="#a1cc3a"/>
+    <path id="Path_2943" data-name="Path 2943" d="M404.021,690.692V664.129a.831.831,0,0,1,1.661,0v26.563" transform="translate(-106.982 -360.969)" fill="#a1cc3a"/>
+    <path id="Path_2944" data-name="Path 2944" d="M269,378.265a13.52,13.52,0,0,1,13.52-13.52h0V419.78h0A13.52,13.52,0,0,1,269,406.26" transform="translate(0 -124.414)" fill="#a1cc3a"/>
+    <path id="Path_2945" data-name="Path 2945" d="M579.468,454.137V364.745h31.017v89.392" transform="translate(-245.995 -124.414)" fill="#a1cc3a"/>
+    <path id="Path_2946" data-name="Path 2946" d="M651.81,690.692V664.129a.831.831,0,0,0-1.661,0v26.563" transform="translate(-301.998 -360.969)" fill="#a1cc3a"/>
+    <path id="Rectangle_191" data-name="Rectangle 191" d="M13.52,0h0a0,0,0,0,1,0,0V55.035a0,0,0,0,1,0,0h0A13.52,13.52,0,0,1,0,41.515V13.52A13.52,13.52,0,0,1,13.52,0Z" transform="translate(377.851 295.366) rotate(180)" fill="#a1cc3a"/>
+    <circle id="Ellipse_138" data-name="Ellipse 138" cx="12.725" cy="12.725" r="12.725" transform="translate(285.145 207.723)" fill="#a1cc3a"/>
+    <circle id="Ellipse_139" data-name="Ellipse 139" cx="12.725" cy="12.725" r="12.725" transform="translate(336.256 207.723)" fill="#a1cc3a"/>
+    <g id="Group_1581" data-name="Group 1581" transform="translate(288.921 252.478)">
+      <path id="Path_2947" data-name="Path 2947" d="M432.691,433.162H364.929l14.175-9.923,2.144,3.062-4.461,3.122h55.9Z" transform="translate(-364.929 -423.239)" fill="#fff"/>
+    </g>
+    <g id="Group_1582" data-name="Group 1582" transform="translate(293.341 278.386)">
+      <path id="Path_2948" data-name="Path 2948" d="M439.845,557.891l-2.144-3.062,4.415-3.091h-55.9V548h67.761Z" transform="translate(-386.213 -548)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

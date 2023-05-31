@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1281.694" height="629" viewBox="0 0 1281.694 629">
+  <g id="Infographics" transform="translate(-319.153 -361)">
+    <g id="Group_4184" data-name="Group 4184" transform="translate(299.746 309.104)">
+      <path id="Path_4209" data-name="Path 4209" d="M198.521,448.382,33.183,283.045a36.793,36.793,0,0,1,0-52.033L198.521,65.672a36.793,36.793,0,0,1,52.033,0L415.893,231.011a36.792,36.792,0,0,1,0,52.032" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_4210" data-name="Path 4210" d="M422.1,233.925,587.437,399.264a36.8,36.8,0,0,1,0,52.033L422.1,616.636a36.793,36.793,0,0,1-52.033,0L204.725,451.3a36.793,36.793,0,0,1,0-52.033l66.432-66.285,15.085-15.052,16.39-16.353,67.541-67.391" transform="translate(46.275 48.294)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_4211" data-name="Path 4211" d="M376.684,283.233c-14.369-14.369-14.071-37.853.3-52.221L542.319,65.672a36.793,36.793,0,0,1,52.033,0L759.691,231.011a36.792,36.792,0,0,1,0,52.032L593.231,449.748" transform="translate(92.701 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_4212" data-name="Path 4212" d="M929.967,365.863a36.793,36.793,0,0,1,0,52.033L764.63,583.234a36.794,36.794,0,0,1-52.033,0L547.257,417.9a36.793,36.793,0,0,1,0-52.033" transform="translate(138.675 83.885)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_4213" data-name="Path 4213" d="M883.509,449.283,719.48,284.768a36.794,36.794,0,0,1,0-52.032L884.819,67.4a36.793,36.793,0,0,1,52.033,0l165.339,165.338a36.793,36.793,0,0,1,0,52.033L936.852,450.107" transform="translate(185.133 0.465)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+    </g>
+    <text id="_01" data-name="01" transform="translate(515 488)" fill="#a1cc3a" font-size="71" font-family="PlayfairDisplay-Bold, Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-36.849" y="0">01</tspan></text>
+    <text id="_02" data-name="02" transform="translate(742 900)" fill="#a1cc3a" font-size="71" font-family="PlayfairDisplay-Bold, Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-41.819" y="0">02</tspan></text>
+    <text id="_03" data-name="03" transform="translate(960 488)" fill="#a1cc3a" font-size="71" font-family="PlayfairDisplay-Bold, Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-40.577" y="0">03</tspan></text>
+    <text id="_04" data-name="04" transform="translate(1185 900)" fill="#a1cc3a" font-size="71" font-family="PlayfairDisplay-Bold, Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-41.713" y="0">04</tspan></text>
+    <text id="_05" data-name="05" transform="translate(1392 488)" fill="#a1cc3a" font-size="71" font-family="PlayfairDisplay-Bold, Playfair Display" font-weight="700" letter-spacing="0.01em"><tspan x="-39.547" y="0">05</tspan></text>
+    <g id="Group_4164" data-name="Group 4164" transform="translate(-9 -22)">
+      <text id="Brand_Audit" data-name="Brand
+Audit" transform="translate(528 583)" fill="#fff" font-size="49" font-family="PlayfairDisplay-Medium, Playfair Display" font-weight="500" letter-spacing="0.01em"><tspan x="-69.139" y="0">Brand</tspan><tspan x="-60.785" y="54">Audit</tspan></text>
+      <text id="Conveying_Stationary" data-name="Conveying
+Stationary" transform="translate(969 584)" fill="#fff" font-size="50" font-family="PlayfairDisplay-Medium, Playfair Display" font-weight="500" letter-spacing="0.01em"><tspan x="-120.95" y="0">Conveying</tspan><tspan x="-119.475" y="56">Stationary</tspan></text>
+      <text id="Brand_Voice" data-name="Brand
+Voice" transform="translate(1410 583)" fill="#fff" font-size="49" font-family="PlayfairDisplay-Medium, Playfair Display" font-weight="500" letter-spacing="0.01em"><tspan x="-69.139" y="0">Brand</tspan><tspan x="-60.491" y="54">Voice</tspan></text>
+      <text id="Style_Guide" data-name="Style
+Guide" transform="translate(748 794)" fill="#fff" font-size="50" font-family="PlayfairDisplay-Medium, Playfair Display" font-weight="500" letter-spacing="0.01em"><tspan x="-55.5" y="0">Style</tspan><tspan x="-68.375" y="56">Guide</tspan></text>
+      <text id="Profile_Book" data-name="Profile
+Book" transform="translate(1192 794)" fill="#fff" font-size="50" font-family="PlayfairDisplay-Medium, Playfair Display" font-weight="500" letter-spacing="0.01em"><tspan x="-76.625" y="0">Profile</tspan><tspan x="-58.225" y="56">Book</tspan></text>
+    </g>
+  </g>
+</svg>
